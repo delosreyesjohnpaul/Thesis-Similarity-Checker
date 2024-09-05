@@ -12,7 +12,7 @@ WORD = re.compile(r'\w+')
 
 def get_cosine(vec1, vec2):
     intersection = set(vec1.keys()) & set(vec2.keys())
-#      print(intersection)
+#    print(intersection)
     matchWords = {}
     for i in intersection:
         if(vec1[i] > vec2[i]):
