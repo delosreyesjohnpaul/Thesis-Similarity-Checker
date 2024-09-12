@@ -35,7 +35,3 @@ This is a Django-based application designed to detect overlapping content and po
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-```
-
-Feel free to modify it according to your specific project details and requirements.
